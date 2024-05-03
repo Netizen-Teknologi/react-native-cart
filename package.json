@@ -1,8 +1,8 @@
 {
   "name": "@netizen-teknologi/react-native-cart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package for managing a shopping cart in React Native apps",
-  "main": "src/CartContext.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
   },
