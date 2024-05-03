@@ -1,0 +1,20 @@
+{
+  "name": "@netizen-teknologi/react-native-cart",
+  "version": "1.0.0",
+  "description": "A package for managing a shopping cart in React Native apps",
+  "main": "src/CartContext.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "react-native",
+    "shopping-cart",
+    "context-api"
+  ],
+  "author": "Rinaldy Ramadhan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Netizen-Teknologi/react-native-cart.git"
+  }
+}
